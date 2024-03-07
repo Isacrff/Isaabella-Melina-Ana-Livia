@@ -1,10 +1,10 @@
 :root{
-    --vermelho: #b30404;
+    --azul: #d1edf8;
     --preto: #010100;
 }
 
 body{
-    background-color: var(--vermelho);
+    background-color: var(--azul);
     color: var(--preto);
 }
 
