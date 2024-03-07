@@ -1,8 +1,12 @@
+:root{
+
+}
+
 body{
     background-color: azure;
     color: rgb(0, 0, 0);
 }
 
 img{
-    width: 30%;
+    width: 20%;
 }
