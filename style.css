@@ -13,14 +13,25 @@ img{
 }
 
 header{
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: space-around;
 }
 .img-intro{
     width: 20%;
+    border-radius: 30px;
+    border: 3px solid;
 }
 
 .intro{
     display: flex;
+}
+
+.primeiro-topico{
+    display: block;
+    background-color: blue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    border: 30px solid;
 }
