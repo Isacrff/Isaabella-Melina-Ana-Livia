@@ -40,7 +40,8 @@ header{
     width: 40%;
 }
 .equipe{
-    width: 20%;
-    border-radius: 50px;
-    border: 30px solid black;
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+   text-align: center;
+   background-color: #010100;
 }
