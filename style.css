@@ -41,10 +41,11 @@ header{
 }
 .equipe{
    display: grid;
-   grid-template-columns: 35% 33% 33%;
+   grid-template-columns: 35% 35% 35%;
    text-align: center;
    background-color: #befbfb;
    margin: 20px;
+   border-radius: 30px;
 }
 
 .pessoa{
