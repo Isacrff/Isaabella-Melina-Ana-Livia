@@ -46,9 +46,10 @@ header{
    background-color: #befbfb;
    margin: 20px;
    border-radius: 30px;
+   border-radius: 30px;
 }
 
 .pessoa{
-    border: 3px solid black;
+    border-radius: 30px;
     margin: 12px;
 }
