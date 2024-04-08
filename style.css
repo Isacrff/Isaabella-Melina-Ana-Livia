@@ -25,7 +25,7 @@ header{
 
 .intro{
     display: flex;
-    background-color: aquamarine;
+    background-color: rgb(135, 197, 177);
     margin: 20px;
     padding: 20px;
     border-radius: 30px;
