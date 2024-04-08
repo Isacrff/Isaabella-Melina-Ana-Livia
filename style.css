@@ -25,5 +25,10 @@ header{
 
 .intro{
     display: flex;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    border: 3px solid;
 }
 
