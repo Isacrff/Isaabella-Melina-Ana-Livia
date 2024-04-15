@@ -24,7 +24,7 @@ header{
 }
 
 .intro{
-    display: space-between;
+    display: flex space-between;
     background-color:#befbfb;
     margin: 20px;
     padding: 20px;
