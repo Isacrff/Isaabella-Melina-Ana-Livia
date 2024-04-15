@@ -24,7 +24,7 @@ header{
 }
 
 .intro{
-    display: flex;
+    display: space-between;
     background-color:#befbfb;
     margin: 20px;
     padding: 20px;
@@ -68,3 +68,4 @@ a{
 .pag{
     color: #001bb3;
 }
+
