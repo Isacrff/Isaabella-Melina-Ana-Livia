@@ -17,6 +17,7 @@ header{
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-items: flex-end;
+    flex-direction: row;
 }
 .img-intro{
     width: 20%;
