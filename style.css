@@ -1,6 +1,7 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
-</style>
+font-family: "Roboto Slab", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
 :root{
     --azul: #d1edf8;
     --preto: #010100;
