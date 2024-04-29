@@ -13,11 +13,11 @@ img{
 }
 
 header{
-    display: flex;
-    justify-content:  space-between;
-    flex-wrap: wrap;
-    align-items: flex-end;
-    flex-direction: row;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
 }
 .img-intro{
     width: 20%;
