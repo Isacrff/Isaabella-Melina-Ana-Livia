@@ -1,6 +1,6 @@
 
 :root{
-    --azul: #d1edf8;
+    --azul: #315766;
     --preto: #010100;
 }
 
@@ -98,4 +98,18 @@ a{
 .cachorroproduto{
     width: 48%;
     margin-top: 10px;
+}
+
+.banho{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    background-color: #84c2c2;
+    margin: 10px;
+    justify-items: stretch;
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: baseline;
+    border-radius: 30px;
+    border: 3px solid black;
 }
