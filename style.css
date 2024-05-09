@@ -78,3 +78,12 @@ a{
     color: #001bb3;
 }
 
+.produtos{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    background-color: #befbfb;
+    margin: 20px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
