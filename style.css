@@ -39,7 +39,7 @@ header{
     align-content: stretch;
     flex-wrap: nowrap;
 }
-}
+
 .equipe{
     display: grid;
     grid-template-columns: 22% 22% 22%;
