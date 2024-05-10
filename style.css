@@ -117,7 +117,11 @@ a {
     align-items: baseline;
     border-radius: 30px;
     border: 3px solid black;
-.banho{
+
+}
+
+.banhocachorro{
     width: 48%;
+    margin-top: 10px;
 }
 }
